@@ -106,14 +106,18 @@ plt.show()
 # Data Visualization Using Seaborn
 # 1.Line Plot
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization-/assets/120380280/eb9387fa-5661-46e6-a938-c937abc26206)
+
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization-/assets/120380280/89c2c0ba-e161-4a24-9ca8-438d6ed95930)
 # 2.Scatterplot
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization-/assets/120380280/d46c5478-5d8c-4f84-b49c-aed2eddb9ab4)
+
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization-/assets/120380280/634a77ee-4bb7-445e-98d3-386d679d14ca)
+
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization-/assets/120380280/24c33ba6-a544-4b4a-852f-2f25e657477d)
 
 # 3.Boxplot
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization-/assets/120380280/d73a2836-a2b1-4730-8b52-c70438b8ca34)
+
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization-/assets/120380280/5d230597-cc8c-4f64-81b3-c1408396b607)
 
 # Violin Plot
@@ -122,6 +126,7 @@ plt.show()
 
 # 5.Barplot
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization-/assets/120380280/538f609c-29e6-4e76-ac6c-937b5dee5868)
+
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization-/assets/120380280/b21446f4-5fc7-4b97-ae6a-d5ecbbfeba3f)
 
 # pointplot
@@ -129,6 +134,7 @@ plt.show()
 
 # Count plot
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization-/assets/120380280/2b91c7ee-3bb4-4aad-8b86-a50c03e9a944)
+
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization-/assets/120380280/28c8b2bb-e9d6-43b9-933e-9e45dc6ac981)
 
 # Histogram
@@ -142,6 +148,7 @@ plt.show()
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization-/assets/120380280/9ef4055e-b2b7-497e-b708-8abeb987e24b)
 # Piechart
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization-/assets/120380280/996d83b7-207e-4823-8784-44bb66b35f6c)
+
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization-/assets/120380280/13eac7f3-e06f-409a-8726-9a277090bec8)
 # Histogram
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization-/assets/120380280/f32526d8-0061-42dd-9fb5-d67768d98dea)
